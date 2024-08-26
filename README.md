@@ -11,3 +11,4 @@ Tabla de şah trebuie să arate exact ca în imagine, respectiv:
 Figurile de şah trebuie să fie scrise în unicode (just google it ☺ );
 La hover, fiecare pătrat/celulă are culoarea de fundal alb;
 La hover pe figurile de şah, acestea îşi schimbă culoarea (în exemplu – în bej), iar în dreapta acestora apare un tooltip (more googling here ☺ ) cu denumirea figurii. Pentru figurile negre tooltip-ul e text alb pe fundal negru şi margine albă, iar pentru figurile albe – e text negru pe fundal alb şi margine neagră.
+![image](https://github.com/user-attachments/assets/452f3988-9a63-48f2-bba0-b52bfc000715)
